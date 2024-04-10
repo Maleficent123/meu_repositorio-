@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Olá, Mundo!"
+echo "Bem-Vindo ao Info 10!"
