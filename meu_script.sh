@@ -1,2 +1,1 @@
-#!/bin/bash
-"Olá, Mundo!"' 
+echo "Olá, Mundo!"
